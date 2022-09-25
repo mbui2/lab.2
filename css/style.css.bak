@@ -23,8 +23,8 @@ form {
     padding: 60px;
     background: #ffff;
     margin: 20%;
-    border: double;
-    border-radius: 5px;
+    border: double
+    border-radius: 50px;
 }
 
 
